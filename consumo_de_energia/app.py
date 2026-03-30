@@ -8,4 +8,3 @@ valorFixo = (consumoMensal * 0.5)
 print(aparelho)
 print ("Consumo estimado: ", consumoMensal, " watts")
 print ("O valor da sua conta é de R$", valorFixo)
-
