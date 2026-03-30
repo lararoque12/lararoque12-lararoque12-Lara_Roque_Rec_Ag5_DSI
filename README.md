@@ -16,3 +16,4 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 <img align="center" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f02bf4ba-fc42-4817-a1b2-37e2a7c05f5f" />
 <img align="center" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2433205c-5a39-4b1d-9d24-2aaddbe50df4" />
+<img align="center" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/29632b46-4099-4a7d-b6cc-a97508815765" />
